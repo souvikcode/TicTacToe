@@ -36,4 +36,4 @@ For more details visit: [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
    I build this game out of fun, just to save the amount of paper we waste by playing this game on paper. :)
    
 ## Contribution:
-   Contribution by making pull request all always welcome. 
+   Contribution by making pull request are all always welcome. 
